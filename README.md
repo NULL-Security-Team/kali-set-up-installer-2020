@@ -10,7 +10,7 @@ simple setup script for Kali Linux 2020 latest update
 ' cd '
 
 - Thirdly clone this repo using the following command:
-'git clone https://github.com/SirCryptic/kali-set-up-installer-2020 -unzip'
+'git clone https://github.com/NULL-Security-Team/kali-set-up-installer-2020'
 
 - now go into the repo downloaded directory
 ' cd kali-set-up-installer-2020 '
